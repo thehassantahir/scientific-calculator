@@ -1,7 +1,6 @@
 # Scientific Calculator
 Scientific calculator using modern C++
 
-To achieve the above task you first need to create three separate classes Circle and Rectangle. The description of each class should be as follows:
 
 Circle class will have ‘radius’ as its data member and setRadius(), computeAreaCirc() as its member functions. The setRadius() function will set the value of its data member ‘radius’ in the main function. The computeAreaCirc() member function will compute and display the area and circumference of the circle class. 
 
