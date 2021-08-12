@@ -16,14 +16,20 @@ RADIUS = 5.6
 LENGTH = 5.0
 WIDTH = 4.0
 
-Sample Screenshot of Output:
+<p>Sample Screenshot of Output:</p><b/>
+<img src="https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-1.png" />
 
-If the user selects option ‘1’.
+<p>If the user selects option ‘1’.</p></br>
+<img src"https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-2.png" />
 
-If the user selects option ‘2’
+<p>If the user selects option ‘2’</p></br>
+<img src="https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-3.png" />
 
-If the user selects any other option.
+<p>If the user selects any other option.</p></br>
+<img src="https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-4.png" />
 
-After completing the calculations the program should prompt the user to perform the calculation again Y/N:
+<p>After completing the calculations the program should prompt the user to perform the calculation again Y/N:</p></br>
+<img src="https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-5.png" />
 
-If the user does not want to perform any calculation. The program should terminate successfully.
+<p>If the user does not want to perform any calculation. The program should terminate successfully.</p></br>
+<img src="https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-6.png" />
