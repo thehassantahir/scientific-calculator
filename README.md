@@ -20,7 +20,7 @@ WIDTH = 4.0
 <img src="https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-1.png" />
 
 <p>If the user selects option ‘1’.</p></br>
-<img src"https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-2.png" />
+<img src="https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-2.png" />
 
 <p>If the user selects option ‘2’</p></br>
 <img src="https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-3.png" />
