@@ -1,7 +1,7 @@
 # Scientific Calculator
 Scientific calculator using modern C++
 
-
+## Description
 Circle class will have ‘radius’ as its data member and setRadius(), computeAreaCirc() as its member functions. The setRadius() function will set the value of its data member ‘radius’ in the main function. The computeAreaCirc() member function will compute and display the area and circumference of the circle class. 
 
 Rectangle class will have ‘height’, ‘width’ as its data members and setLength(), setWidth() and computeArea() as its member functions. The setLength(), setWidth() will set the value of its data member ‘height’ and ‘width’ in the main function. The computeArea() function will compute and display area of the rectangle class.
@@ -9,7 +9,11 @@ Rectangle class will have ‘height’, ‘width’ as its data members and setL
 
 You also need to create constructor of each class which will initialize its data members with default values.
 
+## How to Run?
+ ``` 1. sudo apt install g++ ``` </br>
+ ``` 2. g++ calculator.cpp ```
 
+## Output Source
 For consistency of the assignment, source data of the class data members should be set as follows:
 
 RADIUS = 5.6
