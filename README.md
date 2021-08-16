@@ -37,3 +37,7 @@ WIDTH = 4.0
 
 <p>If the user does not want to perform any calculation. The program should terminate successfully.</p></br>
 <img src="https://github.com/hassan-tahir/scientific-calculator/blob/main/img/img-6.png" />
+
+## Looking for C++ GUI developer
+Contact me: info.hassantahir@gmail.com
+
