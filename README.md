@@ -1,6 +1,6 @@
 # Scientific Calculator
 Scientific calculator using modern C++
-hi
+
 ## Description
 Circle class will have ‘radius’ as its data member and setRadius(), computeAreaCirc() as its member functions. The setRadius() function will set the value of its data member ‘radius’ in the main function. The computeAreaCirc() member function will compute and display the area and circumference of the circle class. 
 
