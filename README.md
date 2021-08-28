@@ -12,6 +12,7 @@ You also need to create constructor of each class which will initialize its data
 ## How to Run?
  ``` 1. sudo apt install g++ ``` </br>
  ``` 2. g++ calculator.cpp ```
+ ``` 3. ./calculator.cpp ```
 
 ## Output Source
 For consistency of the assignment, source data of the class data members should be set as follows:
