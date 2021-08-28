@@ -11,7 +11,7 @@ You also need to create constructor of each class which will initialize its data
 
 ## How to Run?
  ``` 1. sudo apt install g++ ``` </br>
- ``` 2. g++ calculator.cpp ```
+ ``` 2. g++ calculator.cpp ```  </br>
  ``` 3. ./calculator.cpp ```
 
 ## Output Source
